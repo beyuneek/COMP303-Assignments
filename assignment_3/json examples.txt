@@ -1,0 +1,35 @@
+SEEKER 
+
+{
+    "id": 1,
+    "firstName": "Parth",
+    "lastName": "Sharma",
+    "dob": "2002-02-11",
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "city": "Scarborough",
+    "phone": "568-25310"
+}
+
+BLOOD BANK 
+
+{
+    "id": 5,
+    "bloodbankName": "Central Blood Bank Scarborough",
+    "address": "123 Elm Street",
+    "city": "Scarborough",
+    "phone": "342-75356",
+    "website": "www.centralbloodbank.org",
+    "email": "contact@centralbloodbank.org"
+}
+
+
+FOR BLOOD STOCK
+{
+    "id": 6,
+    "bloodGroup": "O+",
+    "quantity": 20,
+    "bestBefore": "2023-12-30",
+    "status": "Available"
+}
+
